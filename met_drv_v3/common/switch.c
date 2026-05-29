@@ -4,6 +4,7 @@
  */
 
 /* include <asm/percpu.h> */
+#include <linux/interrupt.h>
 #include <trace/events/sched.h>
 #include <linux/module.h>
 #include <linux/version.h>
